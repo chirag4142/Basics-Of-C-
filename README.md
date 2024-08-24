@@ -1,4 +1,4 @@
-# Basics-Of-C-
+# Basics-Of-C++
 EXP-1
 # Basics-of-CPP
 
