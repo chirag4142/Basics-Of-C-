@@ -12,8 +12,8 @@ C++ is a general-purpose, high-performance programming language that builds on t
 
 This experiment consists of two practicals namely printing of `"Hello World"` and making of simple calculator program.
 
-### Experiment 1 A: Hello World - 
+### Experiment: Hello World - 
 In the hello world program , the `cout` function from the iostream library is used to print output. The iostream library in C++ is a library for input and output operations.
 
-### Experiment 1 B: Simple Calculator - 
+### Experiment: Simple Calculator - 
 Arithmetic operators`(+,-,/,*)` were used to create calculator program and `cin` function is used to receive inputs from the user.
