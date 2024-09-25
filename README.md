@@ -1,5 +1,3 @@
-# Basics-Of-C++
-EXP-1
 # Basics-of-CPP
 
 ### Hello World and Calculator
